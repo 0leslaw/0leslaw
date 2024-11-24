@@ -1,8 +1,8 @@
 ## Hi there 👋
 My name is Aleksander, Olek for short, I am a Computer Science student at [Wrocław University of Science and Technology](https://pwr.edu.pl/)
 
-- 🔭 I’m currently working on [Clocked-In](https://github.com/JO2K-Development/CLOCKEDIN-Frontend) - an application for managing workers
-- 🌱 I’m currently learning web, mobile, django and python in general
+- 🔭 I’m currently working on [`Clocked-In`](https://github.com/JO2K-Development/CLOCKEDIN-Frontend) - an application for managing workers
+- 🌱 I’m currently learning `WEB`, `Flutter`, `Django` and `Python` in general
 - 👯 I’m into colaborating in doing various projects
 
 <!--
