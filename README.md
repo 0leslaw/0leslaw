@@ -1,10 +1,11 @@
 ## Hi there 👋
 My name is Aleksander, Olek for short 😄. 
-I am a Computer Science student at [Wrocław University of Science and Technology](https://pwr.edu.pl/)
+I am a Computer Science student at [Wrocław University of Science and Technology](https://pwr.edu.pl/), I'm interested in App development and [3D modeling](https://www.youtube.com/watch?v=Mw00MIc_7Pw&ab_channel=Alek666)
 
 - 🔭 I’m currently working on [`Clocked-In`](https://github.com/JO2K-Development/CLOCKEDIN-Frontend) - an application for managing employees, in which my main roles are `Design` and `Frontend Development`
 - 🌱 I’m currently learning `WEB`, `Flutter`, `Django` and `Python` in general
 - 👯 I’m into colaborating in doing various projects
+- 
 
 <!--
 **0leslaw/0leslaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
