@@ -1,6 +1,7 @@
 ## Hi there 👋
 My name is Aleksander, Olek for short 😄. 
-I am a Computer Science student at [Wrocław University of Science and Technology](https://pwr.edu.pl/), \nI'm interested in App development and 3D modeling
+<br>
+I am a Computer Science student at [Wrocław University of Science and Technology](https://pwr.edu.pl/), I'm interested in App development and 3D modeling
 
 - 🔭 I’m currently working on [`Clocked-In`](https://github.com/JO2K-Development/CLOCKEDIN-Frontend) - an application for managing employees, in which my main roles are `Design` and `Frontend Development`
 - 🌱 I’m currently learning `WEB`, `Flutter`, `Django` and `Python` in general
