@@ -1,6 +1,7 @@
 ## Hi there 👋
 My name is Aleksander, Olek for short 😄. 
 I am a Computer Science student at [Wrocław University of Science and Technology](https://pwr.edu.pl/), I'm interested in App development and [3D modeling]() 
+![Zrzut ekranu 2024-11-25 021837](https://github.com/user-attachments/assets/fa817e6d-4e01-40e9-a365-32bae178a252)
 
 <img src="https://github.com/user-attachments/assets/b2603681-7ea5-419a-8c20-e8dd2c8f7d4e" alt="Placeholder Image" width="300">
 
